@@ -21,7 +21,7 @@
 }
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
      usleep(1 * 1000 * 1000); // 1秒
-   
+   //master
 }
 
 @end
